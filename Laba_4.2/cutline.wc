@@ -1,0 +1,29 @@
+
+
+
+int function() {
+
+  const char* str = "Hello";
+
+  
+
+  printf(str);
+
+  
+
+  printf(str):
+
+
+  
+    
+  printf(str);
+  asdasdasd
+  
+asdadasdasd
+  printf("123");
+
+
+  
+
+  return 0;
+}

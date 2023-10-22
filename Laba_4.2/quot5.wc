@@ -1,0 +1,24 @@
+
+void function(int a, int b)
+{
+  const char* quot1 = "Line \" with /* not comment \
+and string cut";
+
+  
+
+  printf("1");
+
+  
+
+  printf("2");
+    
+  
+
+  printf("3");
+
+  
+
+  printf("4");
+
+  printf("str");
+}
